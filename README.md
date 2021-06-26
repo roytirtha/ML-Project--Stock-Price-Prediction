@@ -1,1 +1,1 @@
-# ML-Project--Stock-Price-Prediction
+This is a project for predicting stock market closing prices using Machine Learning. Here, I used both LSTM and CNN for solving the problem. The dataset is from the National Stock Exchange of India. It is a dataset of the stock market prices of Tata Global Beverages Limited.
